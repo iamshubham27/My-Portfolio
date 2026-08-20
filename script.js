@@ -1,7 +1,5 @@
-// ============================================================
-// SHARED SITE SCRIPT
-// ============================================================
 
+// SHARED SITE SCRIPT
 // Theme toggle (dark / light)
 const themeToggle = document.getElementById('themeToggle');
 const themeColorMeta = document.querySelector('meta[name="theme-color"]');
